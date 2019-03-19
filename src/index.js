@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import styles from './responsive.css';
+import './responsive.css';
 
 ResponsiveMedia.propTypes = {
     size: PropTypes.string.isRequired
